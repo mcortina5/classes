@@ -1,0 +1,27 @@
+.orangeBox{
+    background-color: orange;
+    width: 100%;
+    height: 100px;
+    color: white;
+    /*text-align: center;*/
+    padding: 10px;
+    border: 1px solid red;
+    margin: 50px;
+    display: inline-block;
+    font-size: 40px;
+    font-family: 'Open Sans', sans-serif;
+}
+.paraDecor{
+    background-color: lightblue;
+    color: white;
+    font:bold;
+    width: 50%;
+    height: 100px;
+    padding: 50px;
+    margin: 10px;
+    border: 1px solid lightgreen;
+    margin-left: 50px;
+    margin-top: 50px;
+    font-size: 30px;
+    font-family: 'Almarai', sans-serif;
+}
